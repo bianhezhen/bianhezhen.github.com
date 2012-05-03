@@ -38,4 +38,4 @@ ENV arguments also changes the system env variables
 normal arguments do not make sense when calling, difficult to remember
 the meanings of arguments.
 
-Both work fine, it depends on you to use which one.
+
