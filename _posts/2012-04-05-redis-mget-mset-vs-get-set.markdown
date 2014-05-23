@@ -4,6 +4,7 @@ title: redis mget/mset vs get/set
 categories:
 - 数据库
 - Linux
+tags: [github, jekyll]
 ---
 Our application uses redis a lot to perform large numbers of data
 reads/writes. But we didn't use it well enough, e.g. we call redis get
